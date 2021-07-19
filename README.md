@@ -24,7 +24,7 @@ Urban cities account for a majority of the total rides, drivers and fares follow
 ### Total Fares by Time and City Type
 Between January 2019 and April 2019 Urban cities provided the most revenue for the PyBer.  The Peak times in all city types is the last week of February.  However, the week of March 10th has the highest total fares in the urban cities
 
-![Fare By City Type](/analysis/PyBer_Fare_by_City_Type.png)
+![Fare By City Type](/analysis/PyBer_Fare_By_City_Type.png)
 
 ## Recommendations
    - Additional data:  To provide solid recommendations regarding where to expand / contract business we need additional data.  In this analysis we assume that each call is being responded to and that supply is meeting demand.  Is there any data regarding demand, wait times, our competitors and total addressable market (TAM).
